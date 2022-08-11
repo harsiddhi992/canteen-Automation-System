@@ -1,0 +1,108 @@
+body{
+		background-image:url("backgroundc.png");
+}
+
+input{
+	padding-top: 10px;
+	 width: 25%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+form #rows{margin-top: -1%;
+}
+
+#firstname{
+	
+padding:10px;
+}
+#lastname{
+	margin-top: 10px;
+padding:10px;
+}
+#email{
+	margin-top: 10px;
+padding:10px;
+}
+#pwd{
+	margin-top: 10px;
+padding:10px;
+}
+#tel{
+	margin-top: 10px;
+padding:10px;
+}
+input{
+	size: 40%;
+}
+#sub{
+font-size:16px;
+font-weight:bold;
+padding:10px;
+width:100px;
+
+
+}
+.button_active{
+background-color: Transparent;
+font-size:16px;
+font-weight:bold;
+padding:10px;
+width:100px;
+}
+
+h1{
+	color: darkred;
+}
+.link{color:#FF0000;
+}
+main{
+width:100%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+main .right-sec{
+padding-top:150px;
+padding-right:70px;
+float:right;
+
+}
+
+main .left-sec{
+float:left;
+width:50%;
+padding-left:100px;
+padding-top:100px;
+
+}
+
+.left-sec h2{
+font-size:20px;
+text-transform:capitalize;
+font-weight:lighter;
+color:#242424;
+margin-top:100px;
+}
+
+.left-sec h1{
+/*text-transform:uppercase;*/
+/*font-family:'Ubuntu',"Trebuchet MS",Trebuchet,Verdana,Helvetica,Arial,sans-serif;*/
+font-size:55px;
+text-transformation:capitalize;
+font-weight:700;
+margin:12px 0;
+
+}
+
+.left-sec p{
+font-size:30px;
+padding:50px 50px 50px 50px;
+}

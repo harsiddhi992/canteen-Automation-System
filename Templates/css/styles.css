@@ -1,0 +1,59 @@
+.navbar-static-top {
+  margin-bottom:20px;
+}
+
+i {
+  font-size:16px;
+}
+
+.nav > li > a {
+  color:#787878;
+}
+  
+footer {
+  margin-top:20px;
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color:#efefef;
+}
+
+/* count indicator near icons */
+.nav>li .count {
+  position: absolute;
+  bottom: 12px;
+  right: 6px;
+  font-size: 9px;
+  background: rgba(51,200,51,0.55);
+  color: rgba(255,255,255,0.9);
+  line-height: 1em;
+  padding: 2px 4px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+}
+
+
+
+#home-sec {
+   /* background:url(../../images camp/images0.jpg);*/
+    padding: 0;
+    -webkit-background-size: cover;
+    background-size: cover;
+    -moz-background-size: cover;
+    min-height: 600px;
+}
+
+#home-sec .back
+{
+/* background:url(../img/portfolio/images (3).jpg);
+	background:url(../../images camp/images0.jpg) no-repeat;
+   min-height: 600px;
+   background-size:cover;
+   background:url(../../images camp/images3.jpg); */  
+}
+.color
+{
+background:#006699;
+}

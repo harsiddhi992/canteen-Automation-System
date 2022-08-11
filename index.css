@@ -1,0 +1,45 @@
+main{
+width:100%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+main .right-sec{
+padding-top:30px;
+padding-right:70px;
+float:right;
+
+}
+
+main .left-sec{
+float:left;
+width:50%;
+padding-left:100px;
+padding-top:10px;
+
+}
+
+.left-sec h2{
+font-size:10px;
+text-transform:capitalize;
+font-weight:lighter;
+color:#242424;
+margin-top:100px;
+}
+
+.left-sec h1{
+/*text-transform:uppercase;*/
+/*font-family:'Ubuntu',"Trebuchet MS",Trebuchet,Verdana,Helvetica,Arial,sans-serif;*/
+font-size:40px;
+text-transform:capitalize;
+font-weight:700;
+margin:12px 0;
+
+}
+
+.left-sec p{
+	text-align: justify;
+font-size:20px;
+padding:50px 50px 50px 50px;
+}
