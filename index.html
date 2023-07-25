@@ -146,10 +146,10 @@ max-height: 538px;}
     	<img src="logo a.png"> 
         <div class="header-right"> 
 	
-	    <a class="active" href="index.php">Home</a>
-	    <a href="services.php" >services</a>
-	    <a href="about.php">about</a>
-	    <a href="login.php">login</a>
+	    <a class="active" href="index.html">Home</a>
+	    <a href="services.html" >services</a>
+	    <a href="about.html">about</a>
+	    <a href="login.html">login</a>
 	</div>
 </div>
 </div>
